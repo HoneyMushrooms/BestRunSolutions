@@ -195,7 +195,7 @@
 .preview-portfolio .container {
     padding-top: clamp(142px, 7.513rem + 5.45vw, 176px);
     padding-bottom: clamp(142px, 7.513rem + 5.45vw, 176px);
-    background:  url('/assets/portfolio_img.png') center/cover no-repeat;
+    background:  url('../portfolio_img.png') center/cover no-repeat;
 }
 
 .preview-portfolio .breadcrumbs {
@@ -457,7 +457,7 @@
 }
 
 .partners .container {
-    background:  url('/assets/for-partners_img.png') center/cover no-repeat; 
+    background:  url('../for-partners_img.png') center/cover no-repeat; 
 }
 
 .partners__column {
@@ -690,7 +690,7 @@
 .contacts .container {
     padding-top: clamp(48px, 2.216rem + 2.79vw, 64px);
     padding-bottom: clamp(48px, 2.216rem + 2.79vw, 64px);
-    background:  url('/assets/contacts_img.png') center/cover no-repeat; 
+    background:  url('../contacts_img.png') center/cover no-repeat; 
 }
 
 .error-page {
@@ -707,7 +707,7 @@
 
 .error-page .container {
     padding: 259px 0;
-    background:  url('/assets/contacts_img.png') center/cover no-repeat;
+    background:  url('../contacts_img.png') center/cover no-repeat;
 }
 
 .information__grid {
@@ -749,19 +749,19 @@
     }
 
     .partners .container {
-        background:  url('/assets/for-partners_img_tablet.png') center/cover no-repeat; 
+        background:  url('../for-partners_img_tablet.png') center/cover no-repeat; 
     }
 
     .contacts .container {
-        background:  url('/assets/contacts_img_tablet.png') center/cover no-repeat; 
+        background:  url('../contacts_img_tablet.png') center/cover no-repeat; 
     }
 
     .error-page .container {
-        background:  url('/assets/contacts_img_tablet.png') center/cover no-repeat; 
+        background:  url('../contacts_img_tablet.png') center/cover no-repeat; 
     }
 
     .preview-portfolio .container { 
-        background:  url('/assets/portfolio_img_tablet.png') center/cover no-repeat; 
+        background:  url('../portfolio_img_tablet.png') center/cover no-repeat; 
     }
 
 }
@@ -805,20 +805,20 @@
     }
 
     .partners .container {
-        background:  url('/assets/for-partners_img_mobile.png') center/cover no-repeat; 
+        background:  url('../for-partners_img_mobile.png') center/cover no-repeat; 
     }
 
     .contacts .container {
-        background:  url('/assets/contacts_img_mobile.png') center/cover no-repeat; 
+        background:  url('../contacts_img_mobile.png') center/cover no-repeat; 
     }
 
     .error-page .container {
         padding: 288px 0;
-        background:  url('/assets/contacts_img_mobile.png') center/cover no-repeat; 
+        background:  url('../contacts_img_mobile.png') center/cover no-repeat; 
     }
 
     .preview-portfolio .container { 
-        background:  url('/assets/portfolio_img_mobile.png') center/cover no-repeat; 
+        background:  url('../portfolio_img_mobile.png') center/cover no-repeat; 
     }
 
     .portfolio-swiper-button-prev {
